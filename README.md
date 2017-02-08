@@ -1,2 +1,2 @@
-# wots
-Implementation of Winternitz One-time Signatures
+# WOTS
+Implementation of Winternitz One-time Signatures.
